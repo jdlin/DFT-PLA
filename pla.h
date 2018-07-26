@@ -1,6 +1,6 @@
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
  *                                                                         *
- *  Application:     PLA Header File                                       *
+ *  Application:     Test Pattern Generation for PLA's                     *
  *                                                                         *
  *  Language:        C Language                                            *
  *                                                                         *
